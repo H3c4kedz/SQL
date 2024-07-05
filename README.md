@@ -15,8 +15,8 @@ A Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning
 
 **Installation** 
 ```
-git clone https://github.com/Mr-Robert0/Logsensor.git
-cd Logsensor && sudo chmod +x logsensor.py install.sh
+git clone https://github.com/H3c4kedz/SQL.git
+cd SQL && sudo chmod +x logsensor.py install.sh
 pip install -r requirements.txt
 ./install.sh
 
